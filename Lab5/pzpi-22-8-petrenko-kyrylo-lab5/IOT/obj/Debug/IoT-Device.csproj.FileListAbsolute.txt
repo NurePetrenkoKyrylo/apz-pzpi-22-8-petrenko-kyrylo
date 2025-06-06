@@ -1,0 +1,10 @@
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\bin\Debug\IoT-Device.exe.config
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\bin\Debug\IoT-Device.exe
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\bin\Debug\IoT-Device.pdb
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\obj\Debug\IoT-Device.csproj.AssemblyReference.cache
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\obj\Debug\IoT-Device.csproj.CoreCompileInputs.cache
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\obj\Debug\IoT-Device.csproj.CopyComplete
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\obj\Debug\IoT-Device.exe
+C:\Users\EquesAuratus\Desktop\Learning\ATARK_Kyryll\lab4\IoT-Device\obj\Debug\IoT-Device.pdb
